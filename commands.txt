@@ -1,0 +1,20 @@
+git add index.html
+
+git commit -m ""
+
+git push origin main
+
+git diff --staged --names-only
+
+cd C:\Users\Brendan\OneDrive - University College Cork\Desktop\dumb shit\Wiki for pf
+
+
+                <br>
+                <details>
+                    <summary class="sub"></summary>
+                    <br>
+                    <div class="bodyoftext">
+                    <p></p>
+                    <a href=""> Click on this for more info on</a>
+                    </div>
+                </details>
